@@ -1,0 +1,12 @@
+Topic_ID,Topic_Name,Number_of_Posts(Q+A),Percentage_of_Posts,Averege_View,AVerege_Favorite,Averege_Score,Median_Hours_To_Get_Accepted_Answer
+0,Action Classification,3728,5.31,4443.55,4.24,4.65,2.58
+1,Logic Creation,2128,3.03,3676.13,4.99,5.58,4.09
+2,Deployment,3053,4.35,3754.96,4.46,4.71,2.52
+3,Context Creation,2518,3.58,3542.09,3.74,3.72,2.79
+4,User Experience,8124,11.57,3925.36,4.6,3.97,2.17
+5,User Interfacing,14951,21.28,3216.28,4.01,3.73,2.66
+6,Resource Management,15791,22.48,4407.25,4.46,4.3,4.58
+7,Automation,5110,7.27,3287.88,4.27,3.52,3.64
+8,Database,2863,4.08,5817.47,5.76,6.34,1.37
+9,Workflow,9769,13.91,2730.59,4.05,3.91,3.77
+10,Integration,2211,3.15,3166.0,3.32,3.24,2.47
